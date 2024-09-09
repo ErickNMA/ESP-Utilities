@@ -1,6 +1,0 @@
-GPIO config
-Analog Read
-PWM
-MQTT
-Interrupção
-timer dedicado
